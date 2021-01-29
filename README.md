@@ -3,7 +3,7 @@
 
 ** **
 
-- 👨🏽‍💻 I’m currently learning Swift and Ruby
+- 👨🏽‍💻 I’m currently learning SwiftUI and Ruby
 - 📫 Email: yanglangjing@hotmail.com
 
 #### 技术栈

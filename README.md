@@ -1,8 +1,7 @@
 ### Hi there 👋, I'm Redan
+<img width="20%" align="top" alt="Github" src="https://stickershop.line-scdn.net/stickershop/v1/sticker/19287193/android/sticker.png" />
 
 ** **
-
-<img width="30%" align="right" alt="Github" src="https://stickershop.line-scdn.net/stickershop/v1/sticker/19287193/android/sticker.png" />
 
 - 👨🏽‍💻 I’m currently learning Swift and Ruby
 - 📫 Email: yanglangjing@hotmail.com

@@ -1,4 +1,5 @@
 ### Hi there 👋, I'm Redan
+<img width="30%" align="left" alt="Lan" src="https://stickershop.line-scdn.net/stickershop/v1/sticker/19287193/android/sticker.png" />
 
 ** **
 
